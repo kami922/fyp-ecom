@@ -43,7 +43,7 @@ git clone https://github.com/Abhishek676062/My-Awesome-cart.git
 Navigate to the project directory:
 
 ```
-cd my-awesome-cart
+cd My-Awesome-cart
 ```
 
 Create a virtual environment:
