@@ -37,7 +37,7 @@ Ensure you have Python 3.10 installed on your system.
 Clone the repository:
 
 ```
-git clone github.com/Abhishek676062/My-Awesome-cart
+git clone https://github.com/Abhishek676062/My-Awesome-cart.git
 ```
 
 Navigate to the project directory:
