@@ -38,7 +38,7 @@ My Awesome Cart is an extraordinary ecommerce and blog website that offers a sea
 
 ![blog2](https://github.com/Abhishek676062/My-Awesome-cart/assets/81158782/3d0ea0d5-6e85-4a6a-9490-5ababd372040)
 
-## ----------------------------------------------------------------------------------------------
+## -----------------------------------------------------------------------------
 
 # Features
 
